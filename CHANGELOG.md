@@ -5,6 +5,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 What should be included (or not) follows the [Keep a CHANGELOG](http://keepachangelog.com/)
 convention
 
+## [1.2.2] - 2016-07-20
+### Added
+- Meteor installation script execution.
+
 ## [1.2.1] - 2016-07-19
 ### Added
 - Overrides entrypoint.
